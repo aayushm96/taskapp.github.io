@@ -11,7 +11,7 @@ body {
   display: grid;
   place-items: center;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr auto;
+  /* grid-template-rows: 1fr 1fr auto; */
 }
 header {
   font-size: 2rem;
